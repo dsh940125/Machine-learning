@@ -7,7 +7,9 @@
 # deteriorated condition. Every year, the city of Detroit issues millions of dollars in fines to residents and every year. Many 
 # of these fines remain unpaid. Enforcing unpaid blight fines is a costly and tedious process, so the city wants to know how 
 # can we increase blight ticket compliance? My task is to build a model ith an AUROC (the Area Under the ROC Curve) of 0.7 to 
-# predict whether a given blight ticket will be paid on time.
+# predict whether a given blight ticket will be paid on time. This is an assignment project in my Machine Learning class. After 
+# the function return a predicted value for the test set, the system will calculate the accuracy score and if it is higher than 
+# 0.7, the assignment is passed.
 
 
 # File descriptions
